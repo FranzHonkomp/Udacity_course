@@ -8,8 +8,7 @@
 ## Instructions
 
 Collection of all relevant items for my udacity projects
-Including Animal Trading cards (HTML), Adventure game (python) and pixelArtMaker (CSS,HTML,Java)
-Simply download all files and run the index.html or try the raw function of Github.
+Including Animal Trading cards (HTML), Adventure game (python) and pixelArtMaker (CSS,HTML,Java).
 
 ## Contributing
 
